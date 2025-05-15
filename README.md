@@ -1,11 +1,8 @@
 Ben kimim? neciyim ne is yaparim, Olayim ne? Sayfanın sonuna bak.
 My Github Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=farukiskender&show_icons=true&theme=radical)
-[![GitHub Streak](https://streak-stats.demolab.com/?user=farukiskender&theme=tokyonight)](https://git.io/streak-stats)
-
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=farukiskender&layout=compact&theme=radical)
-![Profile views](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/farukiskender&count_bg=%2379C83D&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=Profile+Views&edge_flat=false)
-
+[![GitHub Streak](https://streak-stats.demolab.com/?user=farukiskender&theme=tokyonight)](https://git.io/streak-stats)
 [![trophy](https://github-profile-trophy.vercel.app/?username=farukiskender&theme=gruvbox)](https://github.com/ryo-ma/github-profile-trophy)
 
 <a href="[https://www.linkedin.com/in/kullanici-adin](https://www.linkedin.com/in/farukiskender0/)" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
