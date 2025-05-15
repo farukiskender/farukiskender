@@ -1,4 +1,12 @@
 Ben kimim? neciyim ne is yaparim, Olayim ne? Sayfanın sonuna bak.
+My Github Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=farukiskender&show_icons=true&theme=radical)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=farukiskender&theme=tokyonight)](https://git.io/streak-stats)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=farukiskender&layout=compact&theme=radical)
+![Profile views](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/farukiskender&count_bg=%2379C83D&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=Profile+Views&edge_flat=false)
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=farukiskender&theme=gruvbox)](https://github.com/ryo-ma/github-profile-trophy)
 
 <a href="[https://www.linkedin.com/in/kullanici-adin](https://www.linkedin.com/in/farukiskender0/)" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 <a href="https://www.cloudflare.com" target="_blank"><img src="https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white" alt="Cloudflare"></a>
@@ -30,6 +38,17 @@ IDEs:
 İşletim Sistemleri:
 
 <a href="https://www.linux.org" target="_blank"><img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"></a><a href="https://ubuntu.com" target="_blank"><img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" alt="Ubuntu"></a><a href="https://www.microsoft.com/software-download/windows10" target="_blank"><img src="https://img.shields.io/badge/Windows_10-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="Windows 10"></a> <a href="https://www.microsoft.com/software-download/windows11" target="_blank"><img src="https://img.shields.io/badge/Windows_11-00ADEF?style=for-the-badge&logo=windows11&logoColor=white" alt="Windows 11"></a>
+
+
+## 👋 Hoş Geldiniz
+
+![Profile views](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/farukiskender&count_bg=%2379C83D&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=Profile+Views&edge_flat=false)
+![Status](https://img.shields.io/badge/Status-Online-success?style=flat&logo=github)
+![visitors](https://visitor-badge.glitch.me/badge?page_id=farukiskender)
+
+
+
+
 
 
 
