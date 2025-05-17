@@ -1,5 +1,5 @@
 <h1 align="center">🚀 Faruk İskender</h1>
-<p align="center">Yazılım Geliştirici • Bulut Sistemleri • Güvenlik • Otomasyon</p>
+<p align="center">Yazılım Geliştirici • Bulut Sistemleri • Güvenlik • Donanım</p>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=500&color=00F7FF&center=true&width=440&lines=Merhaba%2C+ben+Faruk+İskender!;C%23%2C+Python%2C+HTML+ile+kodlarım.;Cloud+ve+sunucu+altyapılarıyla+çalışırım.;Geliştirmeyi+ve+öğrenmeyi+seviyorum."/>
