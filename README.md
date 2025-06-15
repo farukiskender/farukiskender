@@ -1,4 +1,4 @@
-<h1 align="center">🚀 Faruk İskender</h1>
+<h1 align="center">Hi 👋, I'm Faruk İskender</h1>
 <p align="center">Yazılım Geliştirici • Bulut Sistemleri • Güvenlik • Donanım</p>
 
 <p align="center">
@@ -16,41 +16,37 @@
 - 📍 Trabzon, Türkiye
 
 ---
-
 ### ⚒️ Tech Stack & Tools
-<p align="left">
-  <!-- Kodlama -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" />
-  
-  <!-- IDE -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" width="40" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/0/0f/Notepad%2B%2B_Logo.png" width="40" />
-  
-  <!-- DB -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" />
-  <img src="https://img.icons8.com/color/48/000000/microsoft-sql-server.png" width="40"/>
-  
-  <!-- Cloud -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" width="40" />
-  
-  <!-- Sistem -->
-  <img src="https://cdn-icons-png.flaticon.com/512/873/873120.png" width="40" title="VMware" />
-  <img src="https://img.icons8.com/color/48/000000/linux.png" width="40"/>
-  <img src="https://img.icons8.com/ios-filled/50/000000/windows10.png" width="40"/>
-  
-  <!-- Diğer -->
+<div style="display:flex; justify-content:center; flex-wrap: nowrap; gap: 15px; overflow-x:auto; padding:10px 0;">
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="40" title="C#" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" title="Python" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" title="HTML5" />
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" title="VS Code" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" width="40" title="Visual Studio" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/0f/Notepad%2B%2B_Logo.png" width="40" title="Notepad++" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" width="40" title="Arduino" />
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" title="MySQL" />
+  <img src="https://img.icons8.com/color/48/000000/microsoft-sql-server.png" width="40" title="MS SQL Server" />
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" width="40" title="Google Cloud" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" width="40" title="Azure" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" width="40" title="Oracle" />
+
+  <img src="https://upload.wikimedia.org/wikipedia/commons/8/87/Windows_logo_-_2021.svg" width="50" title="Windows 11" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" height="40" title="Windows 8" />
+  <img src="https://img.icons8.com/color/48/000000/linux.png" width="40" title="Linux" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/a/ab/Logo-ubuntu_cof-orange-hex.svg" width="50" title="Ubuntu Server" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/f/fa/Apple_logo_black.svg" width="45" title="macOS Sonoma" />
+
   <img src="https://cdn-icons-png.flaticon.com/512/25/25231.png" width="40" title="GitHub" />
-  <img src="https://cdn.worldvectorlogo.com/logos/canva-1.svg" width="40" />
   <img src="https://avatars.githubusercontent.com/u/25720743?s=200&v=4" width="40" title="Notion" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/e/e8/Tor-logo-2011-flat.svg" width="40" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/4/4f/Gemini_Protocol_logo.svg" width="40" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/OpenAI_Logo.svg/512px-OpenAI_Logo.svg.png" width="40" />
-</p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" height="40" title="Photoshop" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/premierepro/premierepro-original.svg" height="40" title="Premiere Pro" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/4/45/Notion_app_logo.png" height="40" title="Notion" />
+</div>
 
 ---
 
