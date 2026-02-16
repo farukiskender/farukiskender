@@ -51,7 +51,7 @@ Karadeniz Teknik Üniversitesi'nde **Yapay Zeka Operatörlüğü** 2. sınıf ö
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=farukiskender&theme=dark&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" />
+  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=farukiskender&theme=transparent&hide_border=true&card_width=500&card_height=180" alt="GitHub Streak" /></a>
 </div>
 
 ---
