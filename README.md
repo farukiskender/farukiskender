@@ -1,7 +1,7 @@
 # Merhaba, ben Faruk İskender! 👋
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Faruk%20İskender&fontSize=70&animation=fadeIn&fontAlignY=38&desc=Yapay%20Zeka%20Operatörü%20%7C%20Yazılım%20Geliştirici&descAlignY=51&descAlign=62"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Faruk%20İskender&fontSize=70&animation=fadeIn&fontAlignY=32&desc=Yapay%20Zeka%20Operatörü%20%7C%20Yazılım%20Geliştirici&descAlignY=51&descAlign=62"/>
 </div>
 
 ### 🚀 Hakkımda
