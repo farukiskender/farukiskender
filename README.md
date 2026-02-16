@@ -31,7 +31,7 @@ Karadeniz Teknik Üniversitesi'nde **Yapay Zeka Operatörlüğü** 2. sınıf ö
 ### 🐍 Katkılarım
 
 <div align="center">
-  <img src="https://github.com/farukiskender/farukiskender/raw/output/github-contribution-grid-snake.svg" alt="snake animation" />
+  <img src="https://github.com/farukiskender/farukiskender/raw/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
 </div>
 
 ---
