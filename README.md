@@ -46,9 +46,12 @@ Karadeniz Teknik Üniversitesi'nde **Yapay Zeka Operatörlüğü** 2. sınıf ö
 ---
 
 ### 🐍 Katkılarım
-
 <div align="center">
   <img src="https://github.com/farukiskender/farukiskender/raw/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=farukiskender&theme=dark&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" />
 </div>
 
 ---
@@ -66,3 +69,5 @@ Karadeniz Teknik Üniversitesi'nde **Yapay Zeka Operatörlüğü** 2. sınıf ö
     <img src="https://img.shields.io/badge/LinkedIn-@farukiskender0-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </div>
+
+---
