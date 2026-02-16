@@ -1,7 +1,7 @@
 # Merhaba, ben Faruk İskender! 👋
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=220&section=header&text=Faruk%20İskender&fontSize=70&animation=fadeIn&fontAlignY=35&desc=Yapay%20Zeka%20%26%20Sistem%20Odaklı%20Yazılım%20Geliştirici&descAlignY=55&descAlign=62"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Faruk%20İskender&fontSize=70&animation=fadeIn&fontAlignY=32&desc=Yapay%20Zeka%20Operatörü%20%7C%20Yazılım%20Geliştirici&descAlignY=51&descAlign=62"/>
 </div>
 
 ### 🚀 Hakkımda
@@ -31,7 +31,7 @@ Karadeniz Teknik Üniversitesi'nde **Yapay Zeka Operatörlüğü** 2. sınıf ö
 ### 🐍 Katkılarım
 
 <div align="center">
-  <img src="https://github.com/farukiskender/farukiskender/raw/output/github-contribution-grid-snake.svg" alt="snake animation" />
+  <img src="https://github.com/farukiskender/farukiskender/raw/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
 </div>
 
 ---
