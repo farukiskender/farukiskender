@@ -1,40 +1,61 @@
-<h1 align="center">Hi 👋, I'm Faruk İskender</h1>
-<p align="center">Yazılım Geliştirici • Bulut Sistemleri • Güvenlik • Donanım</p>
+# Merhaba, ben Ömer Faruk İskender! 👋
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=500&color=00F7FF&center=true&width=440&lines=Merhaba%2C+ben+Faruk+İskender!;C%23%2C+Python%2C+HTML+ile+kodlarım.;Cloud+ve+sunucu+altyapılarıyla+çalışırım.;Geliştirmeyi+ve+öğrenmeyi+seviyorum."/>
-</p>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Ömer%20Faruk%20İskender&fontSize=70&animation=fadeIn&fontAlignY=38&desc=Yapay%20Zeka%20Operatörü%20%7C%20Yazılım%20Geliştirici&descAlignY=51&descAlign=62"/>
+</div>
 
----
+### 🚀 Hakkımda
 
-### 🧠 Hakkımda
-- 💻 Yazılım geliştirme, veritabanı yönetimi ve sistem mimarisi ile uğraşıyorum.  
-- ☁️ Azure, Google Cloud, Proxmox ve VMware gibi altyapılarda sistemler kurdum.  
-- 🧰 Kullandığım araçlar sayesinde hem frontend hem backend çalışıyorum.  
-- 📚 Sürekli yeni teknolojiler öğreniyorum, bilgiyi paylaşmayı seviyorum.  
-- 🧠 "Bilginin zekatı, paylaşmaktır."  
-- 📍 Trabzon, Türkiye
+Karadeniz Teknik Üniversitesi'nde **Yapay Zeka Operatörlüğü** 2. sınıf öğrencisiyim. Masaüstü yazılım geliştirme, veritabanı yönetimi ve ağ güvenliği konularında kendimi geliştiriyorum.
+
+- 🎓 **Eğitim:** KTÜ - Yapay Zeka Operatörlüğü
+- 💻 **Şu anki Odak:** Kapsamlı bir **Masaüstü Stok Yönetimi (ERP)** uygulaması geliştiriyorum.
+- 🌱 **Öğrenmeye Devam:** Network Mimarisi (IPS/IDS), Oracle Linux, Sistem Yönetimi.
+- 💼 **Girişim:** E-ticaret ve dijital girişimcilik dünyasındayım.
 
 ---
 
-### 📊 GitHub İstatistikleri
+### 🛠️ Yetenekler & Teknolojiler
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=farukiskender&show_icons=true&theme=github_dark&locale=tr" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=farukiskender&layout=compact&theme=github_dark&langs_count=10" height="170" />
-</p>
+<div align="center">
+
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  
+  <img src="https://img.shields.io/badge/Oracle_Linux-F80000?style=for-the-badge&logo=oracle&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+
+</div>
 
 ---
 
-### 🏆 GitHub Başarıları
+### 🐍 Katkılarım (Snake Animation)
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=farukiskender&theme=algolia&row=2&column=4" />
-</p>
+<div align="center">
+  <img src="https://github.com/farukiskender0/farukiskender0/blob/output/github-contribution-grid-snake.svg" alt="snake animation" />
+</div>
 
 ---
 
-### 📂 Öne Çıkan Projeler
+### 📫 İletişim
 
-```markdown
-🚧 Şu anda proje alanı yapım aşamasında.
+<div align="center">
+
+  <a href="https://farukiskender.com.tr" target="_blank">
+    <img src="https://img.shields.io/badge/Website-farukiskender.com.tr-blue?style=for-the-badge&logo=google-chrome" />
+  </a>
+  <a href="mailto:info@farukiskender.com.tr">
+    <img src="https://img.shields.io/badge/Email-info@farukiskender.com.tr-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/farukiskender0/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-@farukiskender0-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+
+</div>
+
+<br />
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=farukiskender0&style=flat-square&color=blue" alt="profile views" />
+</div>
