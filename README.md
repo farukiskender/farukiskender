@@ -46,11 +46,7 @@ Karadeniz Teknik Üniversitesi'nde **Yapay Zeka Operatörlüğü** 2. sınıf ö
 ---
 
 ### 🐍 Katkılarım
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/farukiskender/farukiskender/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/farukiskender/farukiskender/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/farukiskender/farukiskender/output/github-contribution-grid-snake.svg">
-</picture>
+![Snake](https://raw.githubusercontent.com/farukiskender/farukiskender/output/github-contribution-grid-snake-dark.svg?v=1)
 
 <div align="center">
   <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=farukiskender&theme=transparent&hide_border=true&card_width=500&card_height=180" alt="GitHub Streak" /></a>
