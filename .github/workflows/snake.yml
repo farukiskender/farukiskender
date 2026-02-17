@@ -2,8 +2,8 @@ name: Generate Snake
 
 on:
   schedule:
-    - cron: "0 */12 * * *" # Her 12 saatte bir çalışır
-  workflow_dispatch: # Manuel tetikleme için
+    - cron: "0 */12 * * *" # Her 12 saatte bir otomatik çalışır
+  workflow_dispatch: # Manuel çalıştırma butonu ekler
   push:
     branches:
     - main
@@ -16,11 +16,11 @@ jobs:
     timeout-minutes: 5
     
     steps:
-      # 1. Dosyaların yazılabilmesi için repoyu check-out yapıyoruz
+      # 1. Depoyu kontrol eder
       - name: Checkout
         uses: actions/checkout@v4
 
-      # 2. Yılan dosyalarını oluşturur (Hem aydınlık hem karanlık)
+      # 2. Yılanı oluşturur (En güncel veriyi çekmek için GITHUB_TOKEN eklendi)
       - name: generate github-contribution-grid-snake.svg
         uses: Platane/snk/svg-only@v3
         with:
@@ -28,8 +28,10 @@ jobs:
           outputs: |
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           
-      # 3. Oluşturulan dosyaları 'output' branchine pushlar
+      # 3. Oluşturulan dosyaları 'output' branchine yükler
       - name: push github-contribution-grid-snake.svg to the output branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
