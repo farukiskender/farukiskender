@@ -6,7 +6,7 @@
 
 ### 🚀 Hakkımda
 
-Karadeniz Teknik Üniversitesi'nde **Yapay Zeka Operatörlüğü** bölümünden mezun oluyorum.. Backend yazılım geliştirme, veritabanı yönetimi ve sistem/ağ güvenliği konularında kendimi geliştiriyorum.
+Karadeniz Teknik Üniversitesi'nde **Yapay Zeka Operatörlüğü** bölümünden mezun oluyorum. Backend yazılım geliştirme, veritabanı yönetimi ve sistem/ağ güvenliği konularında kendimi geliştiriyorum.
 
 - 🎓 **Eğitim:** KTÜ - Yapay Zeka Operatörlüğü
 - 💻 **Şu anki Odak:** CepteFit: Spor salonları ve sporculara yönelik mobil uygulama.
